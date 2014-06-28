@@ -1,4 +1,4 @@
-# Binary Tree Preorder Traversal.py
+# Binary Tree postorder Traversal.py
 # Question: Given a binary tree, return the postorder traversal of its nodes' values.
 #           For example:Given binary tree {1,#,2,3}, return [3,2,1].
 
