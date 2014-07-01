@@ -7,7 +7,7 @@
 # Sulotion:  using a counter to count bit digit of the number
 
 # Author: DongDing 
-# Date: 2014/06/25
+# Date: 2014/07/01
 # Time complexity:  O(n * 32)
 # space complexity:  O(32)  
 # Tag: # bitwise, # logic operation
